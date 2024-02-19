@@ -1,13 +1,1 @@
-{
-  "type": "service_account",
-  "project_id": "lateral-boulder-414805",
-  "private_key_id": "8e1c4038f8e12cdcac2efe37bc5bf83798f99eb9",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCn8WDE5CzIZOsV\nGTN4qY6bezKFPbStuC3Tbes1Kyf+CmAG74rQG8ly1UA7ZmiWWECsrPYKkuKVu4Mv\nabCEdpzXgEDb/XHax7CcAt2OULqlvpSWXk4YQ3EGOPVSbm1LNpRzQLsHyiRvxapC\nyq/YG+KouTPwVNGrgAJm5d2EPkq9s7OprexxEQrxzDst1HvE03fB2Jg/wo+nRdJA\nJWZh7uVY/AIAG11lm0x93nn67NfYIk1kGiLHm8N9kPJTPf8HIZq0oCvTTNAB157s\nigVcvU9bjy206SSOWt3VS73w8f/c9sfq+mWzJVmiYBfCBuQHuhyhetjeu/dISGKG\nupYj8oulAgMBAAECggEAGxz8jvz5f+bPDypw5V+WbuKeXuV96HfuKg66ZOyROdHJ\n/ASrR/rcdIYaJxza8L7Rvi70T/Oz0hGiVcK95TzTCHWjwwBxY61OhXlu9H1zDLQu\nf/I8sG0e7669aG/8hCKNJ+hA6bqIVGU4nizj48Nove2chYXkDciOWrdsol9+KI76\nCQKvXcWpQTkQRPR20alfYXv4olPFcriUOj50OgU4+QtnhiB4C3uuRyf8Y+it0LhQ\nJknKtN1MNUZ/+faKUdTEh/gY++23HNXfAAzQT0BuNI/XyzeCWuRQSce26YGl3xvW\ndlbz6RG5LcgLlqpPuIP5pJuSUxYyYOR387pg825ttwKBgQDXGMcRcjFbdnBauAPt\nzDNBazaiXe/yyvknlrqn1pgv5dbo/cWC/PhiKZh00/6QTveQRqWSJOnWH82EceFW\n1tPvTuQCmpm/xzUlUtNyRAAbpbTcutRJ74ICfJElF4ccnG3gxKxaXzblNdzW3LP6\nPPjC94tlo4SbFlAGmvKbYxMaTwKBgQDH4RSHAIrnaZd7hC5dpltNdevEDnQZP+Mm\nyetOvNseWtTaEFtXZDo0BTh4NDl5NiY0ipcg2UelnOV6bTL8Tqqk1a8rUFJOBeOT\nrEaNlBgCMc4Ql2GA4cec+wUT/7F7G9AoJXv5KBLvfnK+RYPshKgDhqc3Wxfe32go\nbaeEWG+hywKBgQCRLB/vHmtBl8Zs9BVywYc2d+3/1/bCn0tZ9Nk1vhgo+674wY40\nwhfB6OEEuK/vJdzge030PQW1hvFmmpXDzmpr8YriVwW98e1kq2oajNqlzkkrUM1G\nuWe91eUAa8i8/rcKJLNOq0SZnqjWO08dbVlX/UsP5jTxlzWbv6hOR6f08QKBgAQR\nis9srWckeRbki+UQG8+p1NC60pYo/MCvX4DMy1EE3ExMBO/0dFLWwF2CAqF6/rAX\nGhhrE9BFL06cpmsIVuTgDJ6/Fc3MxOMeoJkFKK/yv5UK38s1zVBes63CiKRO3p/S\nk4Fw1WHWmxNQau0Hjjv0I7c2vXel6ILaKIzDGBKdAoGAQotSYtrbbMxoz/cpUQpk\nxxBQubUnava5IYPEvGlyQGLj7JfVbzcwIAMI+Oa/3OJQkSIB5uaSTdtULg4+Knd/\nfwWuZ1IWRlups/wbViaxHrXe/1Vmnx/T79edSc+AmY5NV5XXagV59rQ+No9nwD3o\nq5tFzUXHCpzsAuYZFe5NPLg=\n-----END PRIVATE KEY-----\n",
-  "client_email": "linkedin-post-links@lateral-boulder-414805.iam.gserviceaccount.com",
-  "client_id": "114001725285607803844",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/linkedin-post-links%40lateral-boulder-414805.iam.gserviceaccount.com",
-  "universe_domain": "googleapis.com"
-}
+This is file contain private credentials.
